@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "id": 6,
+      "message": "changed network card on 009",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-06-27T20:36:08.517Z"
+    },
+    {
+      "message": "created network card on 004",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-06-27T15:32:25.279Z",
+      "id": 7
+    },
+    {
+      "message": "updated cable card on 008",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-06-27T15:33:20.522Z",
+      "id": 8
+    },
+    {
+      "message": "updated stuffs",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-06-27T17:42:33.292Z",
+      "id": 9
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
